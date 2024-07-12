@@ -5,3 +5,7 @@ Boilerplate for the React/Next coding test at WorkflowAI. Installed packages inc
 - next
 - typescript
 - eslint
+
+## Usage
+
+- start the project: `yarn dev`
